@@ -1,6 +1,6 @@
 <h1>Hi, I'm Danny!</h1>
 
-<h2>👨‍💻 Cyberseurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Active Directory Home Lab] (https://github.com/dancybertest/LABURL)
 
@@ -14,11 +14,11 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="DannyLester | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="DannyLester | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="DannyLester | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
-[youtube]: https://www.youtube.com/c/dannylester
 [linkedin]: https://www.linkedin.com/in/danny-lester/
+[youtube]: https://www.youtube.com/c/dannylester
 
 <!--
 **dannylester/dannylester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
